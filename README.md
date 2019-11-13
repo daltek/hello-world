@@ -12,4 +12,7 @@ Just the Github tutorial.
   * exciting
   * low fat
 
-Here we can see some more text.
+You can also look at the [hello2.txt](./hello2.txt) --not sure that link will work,
+but besides, there's another file in the repo now, and I'm going to edit it some more.
+
+ 

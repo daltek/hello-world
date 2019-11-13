@@ -3,4 +3,8 @@ I'm writing this on hte laptop, and going to
 commit it first to my local copy, 
 and the see about uploading it to github.
 
+I'm now adding some more text in the  'testex' branch
+IT'll be interesting to see how it turns out, merging everything
+in to the master branch and seeing it back on github.
+
 
