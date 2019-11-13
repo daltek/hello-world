@@ -5,3 +5,11 @@ Just the Github tutorial.
 * Create some Files. 
 * Commit them to git.
 * Track changes.
+
+#### Here starts the edits branch. 
+* Writing this stuff is:
+  * fun
+  * exciting
+  * low fat
+
+Here we can see some more text.
