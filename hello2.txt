@@ -1,0 +1,6 @@
+This is a new file in my hello-world git repo... 
+I'm writing this on hte laptop, and going to 
+commit it first to my local copy, 
+and the see about uploading it to github.
+
+
